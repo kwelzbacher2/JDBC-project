@@ -1,9 +1,3 @@
-//===================================
-// Columbus State Community College
-// CSCI 2469 - Autumn Semester 2017
-// Assignment: Lab 9
-// Programmer: Katie Welzbacher
-//===================================
 
 package edu.cscc.csci2469.lab9;
 
