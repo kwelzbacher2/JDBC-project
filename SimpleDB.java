@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 /**
  * Class SimpleDB connects to a database and allows user to Insert, Retrieve, Update, or Delete from the database.
- * @author kwelzbacher
+ * @author Kwelzbacher
  *
  */
 public class SimpleDB {
